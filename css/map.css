@@ -1,0 +1,1086 @@
+/* Frame 1 */
+ /* Inside auto layout 
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+*/
+
+
+/* Group 15 */
+.group15{
+    display: flex;
+}
+
+
+
+/* Respubltika Saha Yakutiya */
+.Respubltika-Saha-Yakutiya{
+    position: absolute;
+    width: calc(203.52px * x);
+    z-index: 2;
+    height: 248.63px;
+    left: calc(50% - 203.52px/2 + 166.15px);
+    top: calc(50% - 248.63px/2 - 22.07px);
+
+}
+
+
+/* Blue/0% */
+
+
+/* Chukotskij avtonomnyj okrug */
+.Chukotskij-avtonomnyj-okrug{
+    position: absolute;
+    width: 103.92px;
+    height: 124.33px;
+    left: calc(50% - 103.92px/2 + 301.38px);
+    top: calc(50% - 124.33px/2 - 144.83px);
+}
+
+
+/* Blue/20% */
+
+
+/* Magadanskaya oblast' */
+.Magadanskaya-oblast{
+    position: absolute;
+    width: 75.69px;
+    height: 96.89px;
+    left: calc(50% - 75.69px/2 + 280.65px);
+    top: calc(50% - 96.89px/2 - 42.07px);
+}
+
+
+/* Blue/80% */
+
+
+/* Primorskij kraj */
+.Primorskij-kraj{
+    position: absolute;
+    width: 40.59px;
+    height: 73.46px;
+    left: calc(50% - 40.59px/2 + 292.31px);
+    top: calc(50% - 73.46px/2 + 170.45px);
+}
+
+
+/* Blue/0% */
+
+
+/* Habarovskij kraj */
+.Habarovskij-kraj{
+    position: absolute;
+    width: 98.45px;
+    height: 174.63px;
+    left: calc(50% - 98.45px/2 + 262.73px);
+    top: calc(50% - 174.63px/2 + 76.87px);
+}
+
+
+/* Blue/20% */
+
+
+/* Evrejskaya avtonomnaya oblast' */
+.Evrejskaya-avtonomnaya-oblast{
+    position: absolute;
+    width: 29.37px;
+    height: 20.91px;
+    left: calc(50% - 29.37px/2 + 265.43px);
+    top: calc(50% - 20.91px/2 + 154.68px);
+}
+
+
+/* Blue/40% */
+
+
+/* Amurskaya oblast' */
+.Amurskaya-oblast{
+    position: absolute;
+    width: 102.12px;
+    height: 71.04px;
+    left: calc(50% - 102.12px/2 + 206.21px);
+    top: calc(50% - 71.04px/2 + 120.36px);
+}
+
+
+/* Blue/40% */
+
+
+/* Sahalinskaya oblast' */
+.Sahalinskaya-oblast{
+    position: absolute;
+    width: 106.24px;
+    height: 110.31px;
+    left: calc(50% - 106.24px/2 + 338.45px);
+    top: calc(50% - 110.31px/2 + 88.51px);
+}
+
+
+/* Blue/60%, */
+
+
+/* Voronezhskaya oblast' */
+.Voronezhskaya-oblast{
+    position: absolute;
+    width: 29px;
+    height: 28.24px;
+    left: calc(50% - 29px/2 - 313.45px);
+    top: calc(50% - 28.24px/2 + 25.89px);
+}
+
+
+/* Blue/0% */
+
+
+/* Belgorodskaya oblast' */
+.Belgorodskaya-oblast{
+    position: absolute;
+    width: 18.77px;
+    height: 25.92px;
+    left: calc(50% - 18.77px/2 - 329.88px);
+    top: calc(50% - 25.92px/2 + 16.39px);
+}
+
+
+/* Blue/0% */
+
+
+/* Kurskaya oblast' */
+.Kurskaya-oblast{
+    position: absolute;
+    width: 22.76px;
+    height: 22.47px;
+    left: calc(50% - 22.76px/2 - 326.58px);
+    top: calc(50% - 22.47px/2 + 1.98px);
+}
+
+
+/* Blue/20% */
+
+
+/* Bryanskaya oblast' */
+.Bryanskaya-oblast{
+    position: absolute;
+    width: 23.96px;
+    height: 22.87px;
+    left: calc(50% - 23.96px/2 - 328.06px);
+    top: calc(50% - 22.87px/2 - 20.91px);
+}
+
+
+/* Blue/0% */
+
+
+/* Smolenskaya oblast' */
+.Smolenskaya-oblast{
+    position: absolute;
+    width: 29.3px;
+    height: 25.08px;
+    left: calc(50% - 29.3px/2 - 309.84px);
+    top: calc(50% - 25.08px/2 - 36.72px);
+}
+
+
+/* Blue/80% */
+
+
+/* Orlovskaya oblast' */
+.Orlovskaya-oblast{
+    position: absolute;
+    width: 17.75px;
+    height: 21.85px;
+    left: calc(50% - 17.75px/2 - 316.6px);
+    top: calc(50% - 21.85px/2 - 4.09px);
+}
+
+
+/* Blue/40% */
+
+
+/* Lipeckaya oblast' */
+.Lipeckaya-oblast{
+    position: absolute;
+    width: 20.45px;
+    height: 19.74px;
+    left: calc(50% - 20.45px/2 - 306.3px);
+    top: calc(50% - 19.74px/2 + 11.61px);
+}
+
+
+/* Blue/20% */
+
+
+/* Tambovskaya oblast' */
+.Tambovskaya-oblast{
+    position: absolute;
+    width: 20.05px;
+    height: 22.87px;
+    left: calc(50% - 20.05px/2 - 294.68px);
+    top: calc(50% - 22.87px/2 + 21.5px);
+}
+
+
+/* Blue/20% */
+
+
+/* Tul'skaya oblast' */
+.Tulskaya-oblast{
+    position: absolute;
+    width: 17.09px;
+    height: 17.62px;
+    left: calc(50% - 17.09px/2 - 302.03px);
+    top: calc(50% - 17.62px/2 - 5.13px);
+}
+
+
+/* Blue/40% */
+
+
+/* Ryazanskaya oblast' */
+.Ryazanskaya-oblast{
+    position: absolute;
+    width: 25.47px;
+    height: 20.33px;
+    left: calc(50% - 25.47px/2 - 286.07px);
+    top: calc(50% - 20.33px/2 + 5.71px);
+}
+
+
+/* Blue/40% */
+
+
+/* Kaluzhskaya oblast' */
+.Kaluzhskaya-oblast{
+    position: absolute;
+    width: 26.4px;
+    height: 16.59px;
+    left: calc(50% - 26.4px/2 - 307.84px);
+    top: calc(50% - 16.59px/2 - 20.24px);
+}
+
+
+/* Blue/40% */
+
+
+/* Moskovskaya oblast' */
+.Moskovskaya-oblast{
+    position: absolute;
+    width: 22.07px;
+    height: 29.17px;
+    left: calc(50% - 22.07px/2 - 286.94px);
+    top: calc(50% - 29.17px/2 - 17.87px);
+}
+
+
+/* Blue/60%, */
+
+
+/* Voronezhskaya oblast' */
+.Voronezhskaya-oblast-1{
+    position: absolute;
+    width: 19.22px;
+    height: 25.84px;
+    left: calc(50% - 19.22px/2 - 271.39px);
+    top: calc(50% - 25.84px/2 - 8.36px);
+}
+
+/* Blue/40% */
+
+
+/* Voronezhskaya oblast' */
+.Voronezhskaya-oblast-2{
+    position: absolute;
+    width: 19.46px;
+    height: 17.15px;
+    left: calc(50% - 19.46px/2 - 261.57px);
+    top: calc(50% - 17.15px/2 - 9.39px);
+}
+
+
+/* Blue/40% */
+
+
+/* Kostromskaya oblast' */
+.Kostromskaya-oblast{
+    position: absolute;
+    width: 41.65px;
+    height: 24.98px;
+    left: calc(50% - 41.65px/2 - 241.86px);
+    top: calc(50% - 24.98px/2 - 10.76px);
+}
+
+
+/* Blue/40% */
+
+
+/* Tverskaya oblast' */
+.Tverskaya-oblast{
+    position: absolute;
+    width: 45.75px;
+    height: 33.28px;
+    left: calc(50% - 45.75px/2 - 286.65px);
+    top: calc(50% - 33.28px/2 - 40.79px);
+}
+
+
+/* Blue/0% */
+
+
+/* Yaroslavskaya oblast' */
+.Yaroslavskaya-oblast{
+    position: absolute;
+    width: 24.15px;
+    height: 20.83px;
+    left: calc(50% - 24.15px/2 - 263.73px);
+    top: calc(50% - 20.83px/2 - 27.01px);
+}
+
+
+/* Blue/40% */
+
+
+/* Orenburgskaya oblast' */
+.Orenburgskaya-oblast{
+    position: absolute;
+    width: 55.48px;
+    height: 65.27px;
+    left: calc(50% - 55.48px/2 - 229.94px);
+    top: calc(50% - 65.27px/2 + 86.04px);
+}
+
+
+/* Blue/20% */
+
+
+/* Saratovskaya oblast' */
+.Saratovskaya-oblast{
+    position: absolute;
+    width: 41.97px;
+    height: 47.29px;
+    left: calc(50% - 41.97px/2 - 278.68px);
+    top: calc(50% - 47.29px/2 + 53.66px);
+}
+
+
+/* Blue/60%, */
+
+
+/* Samarskaya oblast' */
+.Samarskaya-oblast{
+    position: absolute;
+    width: 29.32px;
+    height: 24.76px;
+    left: calc(50% - 29.32px/2 - 247.76px);
+    top: calc(50% - 24.76px/2 + 56.82px);
+}
+
+
+/* Blue/0% */
+
+
+/* Ul'yanovskaya oblast' */
+.Ulyanovskaya-oblast{
+    position: absolute;
+    width: 27.75px;
+    height: 23.51px;
+    left: calc(50% - 27.75px/2 - 256.18px);
+    top: calc(50% - 23.51px/2 + 39.35px);
+}
+
+
+/* Blue/60%, */
+
+
+/* Penzenskaya oblast' */
+.Penzenskaya-oblast{
+    position: absolute;
+    width: 23.6px;
+    height: 28.45px;
+    left: calc(50% - 23.6px/2 - 277.56px);
+    top: calc(50% - 28.45px/2 + 30.01px);
+}
+
+
+/* Blue/0% */
+
+
+/* Respublika Mordoviya */
+.Respublika-Mordoviya{
+    position: absolute;
+    width: 23.46px;
+    height: 21.99px;
+    left: calc(50% - 23.46px/2 - 268.9px);
+    top: calc(50% - 21.99px/2 + 20.86px);
+}
+
+
+/* Blue/0% */
+
+
+/* Chuvashskaya respublika */
+.Chuvashskaya-respublika{
+    position: absolute;
+    width: 15.84px;
+    height: 15.8px;
+    left: calc(50% - 15.84px/2 - 249.9px);
+    top: calc(50% - 15.8px/2 + 24.59px);
+}
+
+
+/* Blue/40% */
+
+
+/* Nizhegorodskaya oblast' */
+.Nizhegorodskaya-oblast{
+    position: absolute;
+    width: 44.61px;
+    height: 26.84px;
+    left: calc(50% - 44.61px/2 - 252.15px);
+    top: calc(50% - 26.84px/2 + 10.14px);
+}
+
+
+/* Blue/40% */
+
+
+/* Kirovskaya oblast' */
+.Kirovskaya-oblast{
+    position: absolute;
+    width: 22px;
+    height: 19.2px;
+    left: calc(50% - 22px/2 - 238.19px);
+    top: calc(50% - 19.2px/2 + 18.82px);
+}
+
+
+/* Blue/40% */
+
+
+/* Respublika Tatarstan */
+.Respublika-Tatarstan{
+    position: absolute;
+    width: 38.52px;
+    height: 35.84px;
+    left: calc(50% - 38.52px/2 - 234.45px);
+    top: calc(50% - 35.84px/2 + 43.47px);
+}
+
+
+/* Blue/80% */
+
+
+/* Udmurtskaya Respublika  */
+.Udmurtskaya-Respublika{
+    position: absolute;
+    width: 26.3px;
+    height: 26.77px;
+    left: calc(50% - 26.3px/2 - 212.96px);
+    top: calc(50% - 26.77px/2 + 32.92px);
+}
+
+
+/* Blue/40% */
+
+
+/* Respublika Bashkortostan */
+.Respublika-Bashkortostan{
+    position: absolute;
+    width: 41.45px;
+    height: 54.94px;
+    left: calc(50% - 41.45px/2 - 209.02px);
+    top: calc(50% - 54.94px/2 + 71.98px);
+}
+
+
+/* Blue/20% */
+
+
+/* Kirovskaya oblast' */
+.Kirovskaya-oblast-1{
+    position: absolute;
+    width: 48.77px;
+    height: 53.66px;
+    left: calc(50% - 48.77px/2 - 215.32px);
+    top: calc(50% - 53.66px/2 + 8.36px);
+}
+
+
+/* Blue/20% */
+
+
+/* Yamalo-Neneckij avtonomnyj okrug */
+.Yamalo-Neneckij-avtonomnyj-okrug{
+    position: absolute;;
+    width: 98.7px;
+    height: 133.76px;
+    left: calc(50% - 98.7px / 2 - 75.31px);
+    top: calc(50% - 133.76px / 2 - 13.78px);
+}
+
+
+/* Neneckij avtonomnyj okrug */
+.Neneckij-avtonomnyj-okrug{
+    position: absolute;
+    z-index: 2;
+    width: 86.11px;
+    height: 59.72px;
+    left: calc(50% - 86.11px/2 - 135.61px);
+    top: calc(50% - 59.72px/2 - 60.84px);
+}
+/* Blue/40% */
+
+
+
+/* Blue/40% */
+
+
+/* Tyumenskaya oblast' */
+.Tyumenskaya-oblast{
+    position: absolute;
+    width: 60.69px;
+    height: 48.27px;
+    left: calc(50% - 60.69px/2 - 125px);
+    top: calc(50% - 48.27px/2 + 78.35px);
+}
+
+
+/* Blue/40% */
+
+
+/* Kurganskaya oblast' */
+.Kurganskaya-oblast{
+    position: absolute;
+    width: 37.72px;
+    height: 29.43px;
+    left: calc(50% - 37.72px/2 - 161.51px);
+    top: calc(50% - 29.43px/2 + 84.51px);
+}
+
+
+/* Blue/80% */
+
+
+/* Chelyabinskaya oblast' */
+.Chelyabinskaya-oblast{
+    position: absolute;
+    width: 36.94px;
+    height: 43.71px;
+    left: calc(50% - 36.94px/2 - 191.98px);
+    top: calc(50% - 43.71px/2 + 83.51px);
+}
+
+
+/* Blue/40% */
+
+
+/* Sverdlovskaya oblast' */
+.Sverdlovskaya-oblast{
+    position: absolute;
+    width: 55.58px;
+    height: 63.35px;
+    left: calc(50% - 55.58px/2 - 168.64px);
+    top: calc(50% - 63.35px/2 + 42.46px);
+}
+
+
+/* Blue/20% */
+
+
+/* Hanty-Mansijskij avtonomnyj okrug Yugra */
+.Hanty-Mansijskij-avtonomnyj-okrug-Yugra{
+    position: absolute;
+    width: 121.9px;
+    height: 96.08px;
+    left: calc(50% - 121.9px/2 - 92.62px);
+    top: calc(50% - 96.08px/2 + 30.3px);
+}
+
+
+/* Blue/0% */
+
+
+/* Novgorodskaya oblast' */
+.Novgorodskaya-oblast{
+    position: absolute;
+    width: 32.57px;
+    height: 29.9px;
+    left: calc(50% - 32.57px/2 - 284.76px);
+    top: calc(50% - 29.9px/2 - 58.16px);
+}
+
+
+/* Blue/0% */
+
+
+/* Vologodskaya oblast' */
+.Vologodskaya-oblast{
+    position: absolute;
+    width: 58.81px;
+    height: 53.74px;
+    left: calc(50% - 58.81px/2 - 241.14px);
+    top: calc(50% - 53.74px/2 - 35.34px);
+}
+
+
+/* Blue/0% */
+
+
+/* Pskovskaya oblast' */
+.Pskovskaya-oblast{
+    position: absolute;
+    width: 26.56px;
+    height: 35.95px;
+    left: calc(50% - 26.56px/2 - 303.4px);
+    top: calc(50% - 35.95px/2 - 67.13px);
+}
+
+
+/* Blue/40% */
+
+
+/* Leningradskaya oblast' */
+.Leningradskaya-oblast{
+    position: absolute;
+    width: 43.61px;
+    height: 38.79px;
+    left: calc(50% - 43.61px/2 - 269.94px);
+    top: calc(50% - 38.79px/2 - 72.11px);
+}
+
+
+/* Blue/40% */
+
+
+/* Murmanskaya oblast' */
+.Murmanskaya-oblast{
+    position: absolute;
+    width: 39.29px;
+    height: 56.39px;
+    left: calc(50% - 39.29px/2 - 199.27px);
+    top: calc(50% - 56.39px/2 - 110.01px);
+}
+
+
+/* Blue/60%, */
+
+
+/* Respublika Kareliya */
+.Respublika-Kareliya{
+    position: absolute;
+    width: 56.91px;
+    height: 63.11px;
+    left: calc(50% - 56.91px/2 - 238.53px);
+    top: calc(50% - 63.11px/2 - 89.64px);
+}
+
+
+/* Blue/40% */
+
+
+/* Respublika Komi */
+.Respublika-Komi{
+    position: absolute;
+    width: 117.04px;
+    height: 66.74px;
+    left: calc(50% - 117.04px/2 - 154.43px);
+    top: calc(50% - 66.74px/2 - 20.78px);
+}
+
+
+/* Blue/0% */
+
+/* Blue/40% */
+
+
+/* Arhangel'skaya oblast' */
+.Arhangelskaya-oblast{
+    position: absolute;
+    width: 218.65px;
+    height: 167.88px;
+    left: calc(50% - 218.65px/2 - 133.55px);
+    top: calc(50% - 167.88px/2 - 96.69px);
+}
+
+
+/* Blue/0% */
+
+
+/* Kaliningradskaya oblast' */
+.Kaliningradskaya-oblast{
+    position: absolute;
+    width: 14.8px;
+    height: 20.53px;
+    left: calc(50% - 14.8px/2 - 350.69px);
+    top: calc(50% - 20.53px/2 - 94.27px);
+}
+
+
+/* Blue/60%, */
+
+
+/* Rostovskaya oblast' */
+.Rostovskaya-oblast{
+    position: absolute;
+    width: 40.55px;
+    height: 42.89px;
+    left: calc(50% - 40.55px/2 - 335.31px);
+    top: calc(50% - 42.89px/2 + 58.66px);
+}
+
+
+/* Blue/40% */
+
+
+/* Volgogradskaya oblast' */
+.Volgogradskaya-oblast{
+    position: absolute;
+    width: 42.39px;
+    height: 41.93px;
+    left: calc(50% - 42.39px/2 - 306.66px);
+    top: calc(50% - 41.93px/2 + 54.92px);
+}
+
+
+/* Blue/40% */
+
+
+/* Astrahanskaya oblast' */
+.Astrahanskaya-oblast{
+    position: absolute;
+    width: 21.62px;
+    height: 36.15px;
+    left: calc(50% - 21.62px/2 - 310.65px);
+    top: calc(50% - 36.15px/2 + 89.11px);
+}
+
+
+/* Blue/0% */
+
+
+/* Respublika Kalmykiya */
+.Respublika-Kalmykiya{
+    position: absolute;
+    width: 36.04px;
+    height: 38.97px;
+    left: calc(50% - 36.04px/2 - 328.53px);
+    top: calc(50% - 38.97px/2 + 87.96px);
+}
+
+
+/* Blue/40% */
+
+
+/* Respublika Dagestan */
+.Respublika-Dagestan{
+    position: absolute;
+    width: 26.14px;
+    height: 42.43px;
+    left: calc(50% - 26.14px/2 - 340.94px);
+    top: calc(50% - 42.43px/2 + 122.39px);
+}
+
+
+/* Blue/40% */
+
+
+/* Chechenskaya respublika */
+.Chechenskaya-respublika{
+    position: absolute;
+    width: 17.48px;
+    height: 15.33px;
+    left: calc(50% - 17.48px/2 - 345.02px);
+    top: calc(50% - 15.33px/2 + 113.49px);
+}
+
+
+/* Blue/60%, */
+
+
+/* Respublika Ingushetiya */
+.Respublika-Ingushetiya{
+    position: absolute;
+    width: 8.54px;
+    height: 9.01px;
+    left: calc(50% - 8.54px/2 - 351.24px);
+    top: calc(50% - 9.01px/2 + 111.15px);
+}
+
+
+/* Blue/80% */
+
+
+/* Respublika Severnaya Osetiya - Alaniya */
+.Respublika-Severnaya-Osetiya-Alaniya{
+    position: absolute;
+    width: 13.85px;
+    height: 9.37px;
+    left: calc(50% - 13.85px/2 - 354.08px);
+    top: calc(50% - 9.37px/2 + 108.35px);
+}
+
+
+/* Blue/60%, */
+
+
+/* Kabardino-Balkarskaya respublika */
+.Kabardino-Balkarskaya-respublika{
+    position: absolute;
+    width: 16.09px;
+    height: 10.98px;
+    left: calc(50% - 16.09px/2 - 356.81px);
+    top: calc(50% - 10.98px/2 + 99.34px);
+}
+
+
+/* Blue/80% */
+
+
+/* Karachaevo-Cherkesskaya respublika */
+.Karachaevo-Cherkesskaya-respublika{
+    position: absolute;
+    width: 15.5px;
+    height: 14.21px;
+    left: calc(50% - 15.5px/2 - 363.82px);
+    top: calc(50% - 14.21px/2 + 88.86px);
+}
+
+
+/* Blue/60%, */
+
+
+/* Krasnodarskij Kraj */
+.Krasnodarskij-Kraj{
+    position: absolute;
+    width: 30.55px;
+    height: 38.81px;
+    left: calc(50% - 30.55px/2 - 363.55px);
+    top: calc(50% - 38.81px/2 + 64.87px);
+}
+
+
+/* Blue/40% */
+
+
+/* Stavropol'skij kraj */
+.Stavropolskij-kraj{
+    position: absolute;
+    width: 25.86px;
+    height: 37.94px;
+    left: calc(50% - 25.86px/2 - 345.72px);
+    top: calc(50% - 37.94px/2 + 87.87px);
+}
+
+
+/* Blue/0% */
+
+
+/* Respublika Adygeya */
+.Respublika-Adygeya{
+    position: absolute;
+    width: 12.51px;
+    height: 18.49px;
+    left: calc(50% - 12.51px/2 - 366.17px);
+    top: calc(50% - 18.49px/2 + 70.59px);
+}
+
+
+/* Blue/80% */
+
+
+/* Respublika Buryatiya */
+.Respublika-Buryatiya{
+    position: absolute;
+    width: 110.74px;
+    height: 84.89px;
+    left: calc(50% - 110.74px/2 + 88.81px);
+    top: calc(50% - 84.89px/2 + 146.98px);
+}
+
+
+/* Blue/0% */
+
+
+/* Respublika Tyva */
+.Respublika-Tyva{
+    position: absolute;
+    width: 66px;
+    height: 42.13px;
+    left: calc(50% - 66px/2 + 2.81px);
+    top: calc(50% - 42.13px/2 + 174.36px);
+}
+
+
+/* Blue/60%, */
+
+
+/* Kemerovskaya oblast' */
+.Kemerovskaya-oblast{
+    position: absolute;
+    width: 28.3px;
+    z-index: 2;
+    height: 49.57px;
+    left: calc(50% - 28.3px/2 - 35.74px);
+    top: calc(50% - 49.57px/2 + 140.34px);
+}
+
+
+/* Blue/40% */
+
+
+/* Respublika Altaj */
+.Respublika-Altaj{
+    position: absolute;
+    width: 37.89px;
+    height: 34.28px;
+    left: calc(50% - 37.89px/2 - 45.36px);
+    top: calc(50% - 34.28px/2 + 179.1px);
+}
+
+
+/* Blue/40% */
+
+
+/* Altajskij kraj */
+.Altajskij-kraj{
+    position: absolute;
+    width: 57.3px;
+    height: 42.76px;
+    left: calc(50% - 57.3px/2 - 68.65px);
+    top: calc(50% - 42.76px/2 + 154.34px);
+}
+
+
+/* Blue/60%, */
+
+
+/* Novosibirskaya oblast' */
+.Novosibirskaya-oblast{
+    position: absolute;
+    width: 56.92px;
+    height: 48.7px;
+    left: calc(50% - 56.92px/2 - 78.68px);
+    top: calc(50% - 48.7px/2 + 118.84px);
+}
+
+
+/* Blue/40% */
+
+
+/* Omskaya oblast' */
+.Omskaya-oblast{
+    position: absolute;
+    width: 39.32px;
+    height: 55.76px;
+    left: calc(50% - 39.32px/2 - 113.88px);
+    top: calc(50% - 55.76px/2 + 99.93px);
+}
+
+
+/* Blue/20% */
+
+
+/* Tomskaya oblast' */
+.Tomskaya-oblast{
+    position: absolute;
+    width: 76.71px;
+    height: 61.06px;
+    left: calc(50% - 76.71px/2 - 57.73px);
+    top: calc(50% - 61.06px/2 + 90.79px);
+}
+
+
+/* Blue/20% */
+
+
+/* Respublika Hakasiya */
+.Respublika-Hakasiya{
+    position: absolute;
+    width: 27.5px;
+    height: 44.18px;
+    left: calc(50% - 27.5px/2 - 23.23px);
+    top: calc(50% - 44.18px/2 + 151.7px);
+}
+
+
+/* Blue/40% */
+
+/* Krasnoyarskij kraj */
+.Krasnoyarskij-kraj{
+    z-index: 1;
+    position: absolute;
+    width: 124.85px;
+    height: 329.68px;
+    left: calc(50% - 124.85px/2 + 21.48px);
+    top: calc(50% - 329.68px/2 + 6.6px);
+}
+
+
+/* Irkutskaya oblast' */
+.Irkutskaya-oblast{
+    overflow: unset;
+    position: absolute;
+    width: 132.45px;
+    height: 141.82px;
+    left: calc(50% - 132.45px/2 + 81.1px);
+    top: calc(50% - 141.82px/2 + 108.45px);
+}
+
+
+/* Blue/20% */
+
+
+/* Zabajkal'skij kraj */
+.Zabajkalskij-kraj{
+    position: absolute;
+    width: 83.47px;
+    height: 105.23px;
+    left: calc(50% - 83.47px/2 + 137.57px);
+    top: calc(50% - 105.23px/2 + 142.41px);
+}
+
+
+/* Blue/80% */
+
+
+
+
+/* Blue/60%, */
+
+
+/* Kamchatskij kraj */
+.Kamchatskij-kraj{
+    position: absolute;
+    width: 104.24px;
+    height: 151.55px;
+    left: calc(50% - 104.24px/2 + 345.86px);
+    top: calc(50% - 151.55px/2 - 44.42px);
+}
+
+
+/* Blue/40% */
+
+
+/* Permskij kraj */
+.Permskij-kraj{
+    position: absolute;
+    width: 54.2px;
+    height: 57.27px;
+    left: calc(50% - 54.2px/2 - 182.76px);
+    top: calc(50% - 57.27px/2 + 27.32px);
+}
+
+
+/* Blue/40% */
+
+
+/* Respublika Krym */
+.Respublika-Krym{
+    position: absolute;
+    width: 21.16px;
+    height: 29.11px;
+    left: calc(50% - 21.16px/2 - 387.42px);
+    top: calc(50% - 29.11px/2 + 30.97px);
+}
+
+
+/* Blue/40% */

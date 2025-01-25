@@ -1,0 +1,411 @@
+.body{
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+    display: flex;
+    @media(max-width: 800px) {
+        rotate: 90deg;
+    }
+}
+path{
+    fill: rgb(255, 255, 255);
+}
+.Neneckij-avtonomnyj-okrug.toggled>path{
+    fill: blue;
+}
+.Krasnoyarskij-kraj.toggled>path{
+    fill: blue
+}
+.Respubltika-Saha-Yakutiya.toggled>path{
+    fill: blue
+}
+.Kemerovskaya-oblast.toggled>path{
+    fill: blue
+}
+#t1{
+    position: absolute;
+    left: calc(50% - 30.29px/2 - 200px);
+    top: calc(50% - 56.39px/2 - 100px);
+}
+#t2{
+    position: absolute;
+    left: calc(50% - 30.29px/2 - 190px);
+    top: calc(50% - 56.39px/2 - 105px);
+}
+#t3{
+    position: absolute;
+    left: calc(50% + 1.48px);
+    top: calc(50% + 130px);
+}
+#t4{
+    position: absolute;
+    left: calc(50% - 25px);
+    top: calc(50% + 120px);
+}
+#t5{
+    position: absolute;
+    left: calc(50% - 20px);
+    top: calc(50% + 135px);
+}
+#t6{
+    position: absolute;
+    left: calc(50% - 180px);
+    top: calc(50% + 10px);
+}
+#t7{
+    position: absolute;
+    left: calc(50% - 220px);
+    top: calc(50% + 90px);
+}
+#t8{
+    position: absolute;
+    left: calc(50% - 225px);
+    top: calc(50% + 70px);
+}
+#t9{
+    position: absolute;
+    left: calc(50% - 30.29px/2 - 220px);
+    top: calc(50% - 56.39px/2 - 80px);
+}
+.e{
+    z-index: 100;
+    cursor: pointer;
+    max-width: 20px;
+    background-color: rgb(0, 0, 0);
+}
+.d{
+    fill: yellow;
+    border: 1px solid black;
+}
+#e1{
+    position: absolute;
+    border-radius: 50%;
+    max-height: 20px;
+    left: calc(50% - 30.29px  - 310px);
+    top: calc(50% - 56.39px/2 + 20px);
+}
+#e2{
+    position: absolute;
+    border-radius: 50%;
+    max-height: 20px;
+    left: calc(50% - 30.29px  - 290px);
+    top: calc(50% - 56.39px/2 - 15px);
+}
+#e3{
+    position: absolute;
+    border-radius: 50%;
+    max-height: 20px;
+    left: calc(50% - 30.29px  - 257px);
+    top: calc(50% - 56.39px/2 - 60px);
+}
+#e4{
+    position: absolute;
+    border-radius: 50%;
+    max-height: 17px;
+    max-width: 17px;
+    left: calc(50% - 30.29px  - 305px);
+    top: calc(50% - 56.39px/2 + 105px);
+}
+#e5{
+    position: absolute;
+    border-radius: 50%;
+    max-height: 20px;
+    max-width: 20px;
+    left: calc(50% - 30.29px  - 245px);
+    top: calc(50% - 56.39px/2 + 75px); 
+}
+#e6{
+    position: absolute;
+    border-radius: 50%;
+    max-height: 17px;
+    max-width: 17px;
+    left: calc(50% - 30.29px  - 280px);
+    top: calc(50% - 56.39px/2 + 55px); 
+}
+#e7{
+    position: absolute;
+    border-radius: 50%;
+    max-height: 17px;
+    max-width: 17px;
+    left: calc(50% - 30.29px  - 245px);
+    top: calc(50% - 56.39px/2 - 35px); 
+}
+#e8{
+    position: absolute;
+    border-radius: 50%;
+    max-height: 14px;
+    max-width: 14px;
+    left: calc(50% - 30.29px  - 145px);
+    top: calc(50% - 56.39px/2 + 100px); 
+}
+#e9{
+    position: absolute;
+    border-radius: 50%;
+    max-height: 17px;
+    max-width: 17px;
+    left: calc(50% - 30.29px  - 190px);
+    top: calc(50% - 56.39px/2 - 92px); 
+}
+#e10{
+    position: absolute;
+    border-radius: 50%;
+    max-height: 14px;
+    max-width: 14px;
+    left: calc(50% - 30.29px  + 289px);
+    top: calc(50% - 56.39px/2 - 100px); 
+}
+.v{
+    background-color: rgb(65, 65, 253);
+    z-index: 100;
+    cursor: pointer;
+    max-width: 20px;
+    border-radius: 50%;
+}
+.v:hover{
+    transform: scale(1.5);
+}
+#v1{
+    position: absolute;
+    max-width: 17px;
+    max-height: 17px;
+    left: calc(50% - 30.29px  + 94px);
+    top: calc(50% - 56.39px/2 + 147px);
+}
+#v2{
+    position: absolute;
+    max-width: 17px;
+    max-height: 17px;
+    left: calc(50% - 30.29px  + 100px);
+    top: calc(50% - 56.39px/2 + 128px);
+}
+#v3{
+    position: absolute;
+    max-width: 17px;
+    max-height: 17px;
+    left: calc(50% - 30.29px  + 80px);
+    top: calc(50% - 56.39px/2 + 130px);
+}
+#v4{
+    position: absolute;
+    max-width: 20px;
+    max-height: 20px;
+    left: calc(50% - 30.29px  + 15px);
+    top: calc(50% - 56.39px/2 + 180px); 
+}
+#v5{
+    position: absolute;
+    max-width: 20px;
+    max-height: 20px;
+    left: calc(50% - 30.29px  + 20px);
+    top: calc(50% - 56.39px/2 + 157px); 
+}
+.g{
+    background-color: rgb(37, 185, 32);
+    z-index: 100;
+    cursor: pointer;
+    max-width: 20px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+.g:hover{
+    transform: scale(1.5);
+}
+#g1{
+    position: absolute;
+    max-width: 14px;
+    max-height: 14px;
+    left: calc(50% - 30.29px  + 395px);
+    top: calc(50% - 56.39px/2 + 30px); 
+}
+#g2{
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    left: calc(50% - 30.29px  + 378px);
+    top: calc(50% - 56.39px/2 + 34px); 
+}
+
+.tr{
+    background-color: rgb(194, 19, 19);
+    z-index: 1;
+    cursor: pointer;
+    max-width: 20px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+.tr:hover{
+    transform: scale(1.5);
+}
+#tr1{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: calc(50% - 30.29px  - 57px);
+    top: calc(50% - 56.39px/2 + 64px); 
+}
+#tr2{
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    left: calc(50% - 30.29px  - 157px);
+    top: calc(50% - 56.39px/2 + 84px); 
+}
+#tr3{
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    left: calc(50% - 30.29px  - 220px);
+    top: calc(50% - 56.39px/2 + 7px); 
+}
+#tr4{
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    left: calc(50% - 30.29px  - 160px);
+    top: calc(50% - 56.39px/2 + 37px); 
+}
+#tr5{
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    left: calc(50% - 30.29px  - 250px);
+    top: calc(50% - 56.39px/2 + 17px); 
+}
+
+
+.slo{
+    fill: white;
+}
+.container{
+    width: 100%;
+    opacity: 100%;
+    height: 100%;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    transition: 0.3s ease-in-out;
+    
+}
+.container.active{
+    opacity: 30%;
+    background-color: black;
+}
+
+.info.active{
+    display: flex;
+    width: 300px;
+    flex-direction: column;
+    gap: 10px;
+    align-items: end;
+    padding: 6px;
+    z-index: 100;
+    position: absolute;
+    left: calc(40%);
+    top: calc(30%);
+    background-color: rgb(255, 255, 255);
+    height: 400px;
+    border-radius: 20px;
+}
+.info_text{
+    width: 100%;
+    height: 100%;
+}
+.info{
+    display: none;
+}
+.close{
+    padding: 3px;
+    background-color: transparent;
+    border-radius: 50%;
+    max-width: 20px;
+    max-height: 20px;
+    cursor: pointer;
+}
+
+.header{
+    display: flex;
+    gap: 20px;
+
+}
+.map{
+    padding: 20px;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+}
+.map:hover{
+    background-color: white;
+    color: black;   
+}
+.Triangle:hover{
+    transform: scale(1.5);
+}
+.Triangle{
+    cursor: pointer;
+    z-index: 100;
+    max-width: 20px;
+    color: rgb(0, 89, 255)
+}
+
+.e:hover{
+    transform: scale(1.5);
+}
+
+.rect:hover{
+    transform: scale(1.5);
+}
+.rect{
+    z-index: 100;
+    cursor: pointer;
+    width: 8px;
+    height: 8px;
+}
+
+.map1.toggled{
+    display: flex;
+}
+.map2.toggled{
+    display: flex;
+}
+.map3.toggled{
+    display: flex;
+}
+.map4.toggled{
+    display: flex;
+}
+.map5.toggled{
+    display: flex;
+}
+.map6.toggled{
+    display: flex;
+}
+
+
+.map1{
+    display: none;
+}
+.map2{
+    display: none;
+}
+.map3{
+    display: none;
+}
+.map4{
+    display: none;
+}
+.map5{
+    display: none;
+}
+.map6{
+    display: none;
+}
+/* asdsdad */
+
+.masd{
+    scrollbar-width: 100;
+}
