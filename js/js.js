@@ -312,6 +312,10 @@ const usl12 = document.querySelector("#usl12");
 const usl13 = document.querySelector("#usl13");
 const usl14 = document.querySelector("#usl14");
 const usl15 = document.querySelector("#usl15");
+const usl16 = document.querySelector("#usl16");
+const usl17 = document.querySelector("#usl17");
+const usl18 = document.querySelector("#usl18");
+
 usl1.addEventListener("click", () => {
     text.innerHTML = "1"
     info.classList.add("active")
@@ -370,5 +374,17 @@ usl14.addEventListener("click", () => {
 })
 usl15.addEventListener("click", () => {
     text.innerHTML = "15"
+    info.classList.add("active")
+})
+usl16.addEventListener("click", () => {
+    text.innerHTML = "16"
+    info.classList.add("active")
+})
+usl17.addEventListener("click", () => {
+    text.innerHTML = "17"
+    info.classList.add("active")
+})
+usl18.addEventListener("click", () => {
+    text.innerHTML = "18"
     info.classList.add("active")
 })
