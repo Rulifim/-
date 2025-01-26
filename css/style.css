@@ -348,6 +348,18 @@ path{
     left: calc(50% - 30.29px  - 175px);
     top: calc(50% - 56.39px/2 + 74px);
 }
+#usl16{
+    left: calc(50% - 30.29px  - 170px);
+    top: calc(50% - 56.39px/2 - 80px);
+}
+#usl17{
+    left: calc(50% - 30.29px  - 175px);
+    top: calc(50% - 56.39px/2 + 74px);
+}
+#usl18{
+    left: calc(50% - 30.29px  - 175px);
+    top: calc(50% - 56.39px/2 + 74px);
+}
 
 
 
