@@ -5,6 +5,7 @@
     display: flex;
     @media(max-width: 800px) {
         rotate: 90deg;
+        align-items: center;
     }
 }
 path{
@@ -273,9 +274,96 @@ path{
 }
 
 
-.slo{
-    fill: white;
+.w{
+    fill: rgb(8, 172, 212);
 }
+
+.usl{
+    position: absolute;
+    z-index: 5;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+.usl:hover{
+    transform: scale(1.5);
+}
+#usl1{
+    left: calc(50% - 30.29px  - 194px);
+    top: calc(50% - 56.39px/2 + 120px);
+}
+#usl2{
+    left: calc(50% - 30.29px  - 180px);
+    top: calc(50% - 56.39px/2 + 94px);
+}
+#usl3{
+    left: calc(50% - 30.29px  + 10px);
+    top: calc(50% - 56.39px/2 + 0px);
+}
+#usl4{
+    left: calc(50% - 30.29px  + 300px);
+    top: calc(50% - 56.39px/2 - 90px);
+}
+#usl5{
+    left: calc(50% - 30.29px  + 300px);
+    top: calc(50% - 56.39px/2 - 30px);
+}
+#usl6{
+    left: calc(50% - 30.29px  + 240px);
+    top: calc(50% - 56.39px/2 + 20px);
+}
+#usl7{
+    left: calc(50% - 30.29px  + 190px);
+    top: calc(50% - 56.39px/2 + 90px);
+}
+#usl8{
+    left: calc(50% - 30.29px  + 223px);
+    top: calc(50% - 56.39px/2 + 135px);
+}
+#usl9{
+    left: calc(50% - 30.29px  + 144px);
+    top: calc(50% - 56.39px/2 + 110px);
+}
+#usl10{
+    left: calc(50% - 30.29px  + 300px);
+    top: calc(50% - 56.39px/2 + 150px);
+}
+#usl11{
+    left: calc(50% - 30.29px  + 317px);
+    top: calc(50% - 56.39px/2 + 213px);
+}
+#usl12{
+    left: calc(50% - 30.29px  + 170px);
+    top: calc(50% - 56.39px/2 - 30px);
+}
+#usl13{
+    left: calc(50% - 30.29px  - 180px);
+    top: calc(50% - 56.39px/2 - 100px);
+}
+#usl14{
+    left: calc(50% - 30.29px  + 10px);
+    top: calc(50% - 56.39px/2 - 20px);
+}
+#usl15{
+    left: calc(50% - 30.29px  - 175px);
+    top: calc(50% - 56.39px/2 + 74px);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .container{
     width: 100%;
     opacity: 100%;

@@ -296,3 +296,79 @@ tr5.addEventListener("click", () => {
     text.innerHTML = "5"
     info.classList.add("active")
 })
+
+const usl1 = document.querySelector("#usl1");
+const usl2 = document.querySelector("#usl2");
+const usl3 = document.querySelector("#usl3");
+const usl4 = document.querySelector("#usl4");
+const usl5 = document.querySelector("#usl5");
+const usl6 = document.querySelector("#usl6");
+const usl7 = document.querySelector("#usl7");
+const usl8 = document.querySelector("#usl8");
+const usl9 = document.querySelector("#usl9");
+const usl10 = document.querySelector("#usl10");
+const usl11 = document.querySelector("#usl11");
+const usl12 = document.querySelector("#usl12");
+const usl13 = document.querySelector("#usl13");
+const usl14 = document.querySelector("#usl14");
+const usl15 = document.querySelector("#usl15");
+usl1.addEventListener("click", () => {
+    text.innerHTML = "1"
+    info.classList.add("active")
+})
+usl2.addEventListener("click", () => {
+    text.innerHTML = "2"
+    info.classList.add("active")
+})
+usl3.addEventListener("click", () => {
+    text.innerHTML = "3"
+    info.classList.add("active")
+})
+usl4.addEventListener("click", () => {
+    text.innerHTML = "4"
+    info.classList.add("active")
+})
+usl5.addEventListener("click", () => {
+    text.innerHTML = "5"
+    info.classList.add("active")
+})
+usl6.addEventListener("click", () => {
+    text.innerHTML = "6"
+    info.classList.add("active")
+})
+usl7.addEventListener("click", () => {
+    text.innerHTML = "7"
+    info.classList.add("active")
+})
+usl8.addEventListener("click", () => {
+    text.innerHTML = "8"
+    info.classList.add("active")
+})
+usl9.addEventListener("click", () => {
+    text.innerHTML = "9"
+    info.classList.add("active")
+})
+usl10.addEventListener("click", () => {
+    text.innerHTML = "10"
+    info.classList.add("active")
+})
+usl11.addEventListener("click", () => {
+    text.innerHTML = "11"
+    info.classList.add("active")
+})
+usl12.addEventListener("click", () => {
+    text.innerHTML = "12"
+    info.classList.add("active")
+})
+usl13.addEventListener("click", () => {
+    text.innerHTML = "13"
+    info.classList.add("active")
+})
+usl14.addEventListener("click", () => {
+    text.innerHTML = "14"
+    info.classList.add("active")
+})
+usl15.addEventListener("click", () => {
+    text.innerHTML = "15"
+    info.classList.add("active")
+})
