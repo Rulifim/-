@@ -385,7 +385,8 @@ usl15.addEventListener("click", () => {
     info.classList.add("active")
 })
 usl16.addEventListener("click", () => {
-    text.innerHTML = "16"
+    h1.innerHTML = "Хибинская группа месторождений"
+    text.innerHTML = "Хибинская группа месторождений алюминиевых руд расположена в Мурманской области. Руды этого региона содержат алюминий, железо, натрий, калий и редкие элементы."
     info.classList.add("active")
 })
 usl17.addEventListener("click", () => {
