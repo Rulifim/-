@@ -325,7 +325,8 @@ const usl17 = document.querySelector("#usl17");
 const usl18 = document.querySelector("#usl18");
 
 usl1.addEventListener("click", () => {
-    text.innerHTML = "1"
+    h1.innerHTML = "Медногорское месторождение"
+    text.innerHTML = "Крупное месторождение медно-колчеданных руд в Оренбургской области. Содержит медь, цинк, золото и серебро. Разработано с 1930-х годов. Добыча подземная, переработка включает обогащение. Важный источник сырья для цветной металлургии."
     info.classList.add("active")
 })
 usl2.addEventListener("click", () => {
@@ -390,11 +391,13 @@ usl16.addEventListener("click", () => {
     info.classList.add("active")
 })
 usl17.addEventListener("click", () => {
-    text.innerHTML = "17"
+    h1.innerHTML = "Свердловская область "
+    text.innerHTML = "Месторождения алюминиевых руд включают Черемуховское, Ново-Кальинское, Кальинское и Красную Шапочку. Они расположены в Североуральском бокситовом руднике (СУБР) и являются частью предприятия СУБР."
     info.classList.add("active")
 })
 usl18.addEventListener("click", () => {
-    text.innerHTML = "18"
+    h1.innerHTML = "Тихвинское месторождение"
+    text.innerHTML = "Крупное месторождение титаномагнетитовых железных руд в Ленинградской области. Содержит железо, титан и ванадий. Активно разрабатывается с конца 1990-х годов. Добыча открытая, переработка включает обогащение. Важный источник сырья для металлургии."
     info.classList.add("active")
 })
 document.addEventListener('wheel', function(event) {
