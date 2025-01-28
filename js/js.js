@@ -330,59 +330,69 @@ usl1.addEventListener("click", () => {
     info.classList.add("active")
 })
 usl2.addEventListener("click", () => {
-    text.innerHTML = "2"
+    h1.innerHTML = "Какрабаш"
+    text.innerHTML = "В городе Карабаш Челябинской области когда-то находился Северо-Карабашский рудник с шахтой «Центральная», где велась добыча медной руды. Шахта «Центральная» была предприятием по добыче медной руды, входившим в состав Карабашского комбината."
     info.classList.add("active")
 })
 usl3.addEventListener("click", () => {
-    text.innerHTML = "3"
+    h1.innerHTML = "Норильск"
+    text.innerHTML = "В Норильске расположен Норильский дивизион — ключевой производственный актив компании «Норникель». Этот дивизион занимается полным циклом производства металлов, от добычи руды до отгрузки готовой продукции."
     info.classList.add("active")
 })
-usl4.addEventListener("click", () => {
-    text.innerHTML = "4"
-    info.classList.add("active")
-})
+// usl4.addEventListener("click", () => {
+//     text.innerHTML = "4"
+//     info.classList.add("active")
+// })
 usl5.addEventListener("click", () => {
-    text.innerHTML = "5"
+    h1.innerHTML = "Магадан"
+    text.innerHTML = "Магаданское месторождение золота — Наталкинское золоторудное месторождение, расположенное в Тенькинском районе Магаданской области. Открыто в 1942 году, тип месторождения — коренной. Балансовые запасы составляют 1260 тонн. Месторождение разрабатывается открытым способом. Годовая добыча составляет чуть более 100 кг, планируется увеличить её до 11 тонн в год."
     info.classList.add("active")
 })
-usl6.addEventListener("click", () => {
-    text.innerHTML = "6"
-    info.classList.add("active")
-})
+// usl6.addEventListener("click", () => {
+//     text.innerHTML = "6"
+//     info.classList.add("active")
+// })
 usl7.addEventListener("click", () => {
-    text.innerHTML = "7"
+    h1.innerHTML = "Якутск"
+    text.innerHTML = "Якутские месторождения золота включают Нежданинское, Кючус, Аллах-Юнь и Большой Куранах. Они известны своими богатыми запасами драгоценного металла и сложными геологическими условиями."
     info.classList.add("active")
 })
 usl8.addEventListener("click", () => {
-    text.innerHTML = "8"
+    h1.innerHTML = "Зейск"
+    text.innerHTML = "Зейское месторождение золота находится в Зейском районе Амурской области, Россия. Оно было открыто в 1858 году горным инженером Н. П. Аносовым."
     info.classList.add("active")
 })
 usl9.addEventListener("click", () => {
-    text.innerHTML = "9"
+    h1.innerHTML = "Бодойбо"
+    text.innerHTML = "Бодайбинское месторождение золота находится в Восточной Сибири, в бассейне реки Бодайбо. Его разработкой занималось «Ленское золотопромышленное товарищество», ставшее позже «Лензолото». Месторождение расположено в южной части синклинория, состоящего из протерозойских пород. Золото содержится в кварцевых жилах, прожилках и аллювиальных россыпях."
     info.classList.add("active")
 })
 usl10.addEventListener("click", () => {
-    text.innerHTML = "10"
+    h1.innerHTML = "Комсомольск на Амуре"
+    text.innerHTML = "В Комсомольске-на-Амуре ведётся добыча олова на Правоурмийском месторождении. Недропользователем является ООО «Правоурмийское», получившее лицензию на право пользования недрами ХАБ 14585 ТЭ от 1 ноября 2011 года."
     info.classList.add("active")
 })
 usl11.addEventListener("click", () => {
-    text.innerHTML = "11"
+    h1.innerHTML = "Находка"
+    text.innerHTML = "В Находке олово добывают на месторождениях, расположенных в Фурмановском рудном районе. Одно из наиболее изученных и подготовленных к отработке месторождений — Щербаковское олово-полиметаллическое месторождение."
     info.classList.add("active")
 })
-usl12.addEventListener("click", () => {
-    text.innerHTML = "12"
-    info.classList.add("active")
-})
-usl13.addEventListener("click", () => {
-    text.innerHTML = "13"
-    info.classList.add("active")
-})
+// usl12.addEventListener("click", () => {
+//     text.innerHTML = "12"
+//     info.classList.add("active")
+// })
+// usl13.addEventListener("click", () => {
+//     text.innerHTML = "13"
+//     info.classList.add("active")
+// })
 usl14.addEventListener("click", () => {
-    text.innerHTML = "14"
+    h1.innerHTML = "Норильск"
+    text.innerHTML = "В Норильске находится Норильская группа месторождений медно-никелевых руд. Первое месторождение — Норильск-1 — было открыто в 1919 году, а эксплуатируется с 1936 года."
     info.classList.add("active")
 })
 usl15.addEventListener("click", () => {
-    text.innerHTML = "15"
+    h1.innerHTML = "Нижний Тагил"
+    text.innerHTML = "В Нижнем Тагиле находится предприятие «Высокогорский горно-обогатительный комбинат», которое занимается добычей и обогащением железных, титаномагнетитовых и хромовых руд."
     info.classList.add("active")
 })
 usl16.addEventListener("click", () => {

@@ -304,7 +304,7 @@ path{
 }
 #usl5{
     left: calc(50% - 30.29px  + 300px);
-    top: calc(50% - 56.39px/2 - 30px);
+    top: calc(50% - 56.39px/2 - 0px);
 }
 #usl6{
     left: calc(50% - 30.29px  + 240px);
